@@ -1,0 +1,26 @@
+form > input, button, .forget-password{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0.70rem;
+    width: 93%;
+}
+
+.create-btn{
+    margin-left: 18%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background-color: rgb(9, 189, 9);
+    
+
+}
+
+.create-btn:hover{
+    background-color: #16A34A;
+}
+.create-page{
+    float: right;
+    position: relative;
+    top: 78%;
+    margin-right: 18%;
+    font-size: small;
+}
